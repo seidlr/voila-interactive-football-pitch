@@ -6,6 +6,10 @@ You can test it live in Binder or run it locally.
 The deployed notebook can be found here: [Notebook on Heroku](https://voila-football-pitch-example.herokuapp.com/)  
 (Be patient, it might need some time to spin up the dyno on Heroku.)
 
+## Voila in Binder
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/seidlr/voila-interactive-football-pitch/master?urlpath=voila%2Frender%2FInteractive-Football-Pitch.ipynb)
+
+
 ## Notebook in Binder
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/seidlr/voila-interactive-football-pitch/master?filepath=Interactive-Football-Pitch.ipynb)
