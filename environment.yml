@@ -1,0 +1,8 @@
+name: voila-football-pitch
+channels:
+  - conda-forge
+dependencies:
+  - bqplot=0.11.2
+  - ipykernel
+  - qgrid
+  - voila
